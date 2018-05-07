@@ -29,7 +29,7 @@ figcaption {
 }
 
 .shadow {
-  box-shadow: 0 3px;
+  box-shadow: 0 3px 10px #333;
 }
 
 /*////////// BACKGROUNDS //////////*/
@@ -84,7 +84,7 @@ img, video, audio, iframe, table, form {
 }
 
 .col-3 {
-  
+
 }
 
 [class*="col-"] {
